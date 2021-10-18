@@ -14,7 +14,7 @@ public class Coffee {
         return id;
     }
 
-    public String getname() {
+    public String getName() {
         return name;
     }
 
