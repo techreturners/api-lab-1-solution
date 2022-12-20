@@ -6,7 +6,7 @@
 This is the solution repository for the API Interactive Lab 1 - Create a Web API to Serve back a JSON Response using a Test-Driven Approach.
 
 ### Pre-Requisites
-- Java SE Development Kit 11
+- Java SE Development Kit 17
 - Maven
 
 ### How to Get Started
